@@ -1,13 +1,15 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
-\defcounter {refsection}{0}\relax
-\select@language {english}
-\defcounter {refsection}{0}\relax
-\select@language {english}
+\babel@toc {english}{}
+\babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Theory}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Section heading}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Subsection heading}{3}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.1}Semantic Segmentation}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Pixel-based Semantic Segmentation}{3}{subsection.2.1.1}
 \contentsline {subsubsection}{\nonumberline Subsubsection heading}{3}{section*.7}
+\contentsline {subsection}{\numberline {2.1.2}Instance-based Semantic Segmentation}{3}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Deep Convolution Neural Network (DCNN)}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Convolution Neural Network (CNN)}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Dilated Convolution Neural Network}{3}{subsection.2.2.2}
 \contentsline {chapter}{\numberline {3}Experiments}{5}{chapter.3}
 \contentsline {section}{\numberline {3.1}LaTeX Typesetting By Example}{5}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Plain Text}{5}{subsection.3.1.1}

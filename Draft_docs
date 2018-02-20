@@ -1,0 +1,20 @@
+Segmentation :
+- Partitioning an image into several parts or segments.
+- The main goal is to make the image more understandable.
+- It process an image, to be segmented into several region based on boundaries, where each pixels inside the boundary share similar features such as color intensity or texture etc.
+(https://en.wikipedia.org/wiki/Image_segmentation)
+
+- Image segmentation, the process of identifying homogeneous regions in an image.
+- challenging instance of image segmentation is the problem of automatically identifying semantically meaningful regions in an image. 
+- This problem is often referred to as image labeling/semantic segmentation, since its goal is to associate each pixel in the image with a label denoting a semantically meaningful part.
+
+ 
+
+Semantic segmentation:
+- Ability to segment the images into different objects.
+- Provide powerful insight to understand the world compare to object recognition or detection. 
+
+
+
+-Pixel-wise:
+-Instance wise:

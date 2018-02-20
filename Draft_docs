@@ -18,3 +18,6 @@ Semantic segmentation:
 
 -Pixel-wise:
 -Instance wise:
+
+references:
+https://wiki.tum.de/display/lfdv/Image+Semantic+Segmentation#ImageSemanticSegmentation-Literature

@@ -21,3 +21,6 @@ Semantic segmentation:
 
 references:
 https://wiki.tum.de/display/lfdv/Image+Semantic+Segmentation#ImageSemanticSegmentation-Literature
+
+watershed: http://cmm.ensmp.fr/~beucher/wtshed.html
+         http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/KIM1/Seminars/Watershed/sld024.htm
